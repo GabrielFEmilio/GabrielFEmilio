@@ -15,7 +15,7 @@
 
 <p>
   <a href="mailto:gabriel.emilio.dev@gmail.com"><img src="https://img.shields.io/badge/Email-gabriel.emilio.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-emilio/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel_Emilio-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-emilio"><img src="https://img.shields.io/badge/LinkedIn-Gabriel_Emilio-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/English-Advanced-blue?style=flat-square" alt="Advanced English" />
   <img src="https://img.shields.io/badge/French-Basic-blue?style=flat-square" alt="Basic French" />
 </p>
