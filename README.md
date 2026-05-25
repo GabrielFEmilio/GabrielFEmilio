@@ -67,8 +67,8 @@ I am a **Computer Engineering** student focused on developing automation tools, 
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :---: |
-| 🛒 **[Atlas das Promos](#)** | Market intelligence bot for real-time price scraping and monitoring across major marketplaces. | Python, Selenium | 🧪 Beta / R&D |
-| 🤟 **[SignLink](#)** | JavaScript library for real-time sign language translation using computer vision and 3D avatars. | JS, MediaPipe, Three.js | 🟡 Beta |
+| 🛒 **[Atlas das Promos](https://github.com/GabrielFEmilio/atlas-das-promos-showcase)** | Market intelligence bot for real-time price scraping and monitoring across major marketplaces. | Python, Selenium | 🧪 Beta / R&D |
+| 🤟 **[SignLink](https://github.com/GabrielFEmilio/signlink-showcase)** | JavaScript library for real-time sign language translation using computer vision and 3D avatars. | JS, MediaPipe, Three.js | 🟡 Beta |
 
 ---
 
@@ -118,8 +118,8 @@ Sou estudante de **Engenharia da Computação** focado no desenvolvimento de fer
 
 | Projeto | Descrição | Stack | Status |
 | :--- | :--- | :--- | :---: |
-| 🛒 **[Atlas das Promos](#)** | Bot de inteligência de mercado para monitoramento e raspagem de preços em tempo real nos maiores marketplaces. | Python, Selenium | 🧪 Beta / P&D |
-| 🤟 **[SignLink](#)** | Biblioteca JavaScript para tradução de Libras em tempo real utilizando visão computacional e avatares 3D. | JS, MediaPipe, Three.js | 🟡 Beta |
+| 🛒 **[Atlas das Promos](https://github.com/GabrielFEmilio/atlas-das-promos-showcase)** | Bot de inteligência de mercado para monitoramento e raspagem de preços em tempo real nos maiores marketplaces. | Python, Selenium | 🧪 Beta / P&D |
+| 🤟 **[SignLink](https://github.com/GabrielFEmilio/signlink-showcase)** | Biblioteca JavaScript para tradução de Libras em tempo real utilizando visão computacional e avatares 3D. | JS, MediaPipe, Three.js | 🟡 Beta |
 
 ---
 
@@ -169,8 +169,8 @@ Je suis étudiant en **Génie Informatique** axé sur le développement d'outils
 
 | Projet | Description | Stack | Statut |
 | :--- | :--- | :--- | :---: |
-| 🛒 **[Atlas das Promos](#)** | Bot d'intelligence économique pour la surveillance et l'extraction de prix en temps réel sur les principales places de marché. | Python, Selenium | 🧪 Bêta / R&D |
-| 🤟 **[SignLink](#)** | Bibliothèque JavaScript pour la traduction de la langue des signes en temps réel à l'aide de la vision par ordinateur et d'avatars 3D. | JS, MediaPipe, Three.js | 🟡 Bêta |
+| 🛒 **[Atlas das Promos](https://github.com/GabrielFEmilio/atlas-das-promos-showcase)** | Bot d'intelligence économique pour la surveillance et l'extraction de prix en temps réel sur les principales places de marché. | Python, Selenium | 🧪 Bêta / R&D |
+| 🤟 **[SignLink](https://github.com/GabrielFEmilio/signlink-showcase)** | Bibliothèque JavaScript pour la traduction de la langue des signes en temps réel à l'aide de la vision par ordinateur et d'avatars 3D. | JS, MediaPipe, Three.js | 🟡 Bêta |
 
 ---
 
